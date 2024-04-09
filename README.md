@@ -5,6 +5,8 @@ https://github.com/RhythmusByte
 LinkedIn - @rhythmusbyte
 -->
 
+> An early stage project created for fun. So there is tons of errors in this repo.
+
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=26F700&width=435&height=100&lines=Calculator+Script" alt="Calculator Script" /></h1>
 
 ---
