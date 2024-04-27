@@ -1,14 +1,14 @@
 /*
     This code is created by Akhil Mahesh
-    GitHub - @Akhil-Mahesh
-    Instagram - @akhi_akxu
-    YouTube - @AlonePhilic
- */
+    GitHub - RhythmusByte
+    Instagram - @rhythmusbyte 
+*/
  
     body {
       margin: 0;
       padding: 0;
       display: flex;
+      font-family: Anta;
       justify-content: center;
       align-items: center;
       height: 100vh;
